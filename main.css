@@ -1,0 +1,12 @@
+h1 {
+  padding: 15px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#id {
+  border-bottom: green 3px solid;
+}
